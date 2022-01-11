@@ -1,2 +1,1 @@
-# C20
-Pro-Reject (Project)!
+# C20-Student-boilerplate-code
